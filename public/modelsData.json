@@ -1,0 +1,14 @@
+{
+    "models": [
+      {
+        "id": 1,
+        "name": "BERT",
+        "category": "NLP",
+        "description": "BERT (Bidirectional Encoder Representations from Transformers) is a powerful pre-trained language model.",
+        "codeSnippet": "const model = new BERT();",
+        "useCases": ["Text classification", "Named entity recognition"]
+      }
+      
+    ]
+  }
+  
